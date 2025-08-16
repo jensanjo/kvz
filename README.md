@@ -33,6 +33,6 @@ Requires Rust (1.70+) and ZeroMQ development libraries.
 sudo apt install libzmq3-dev
 
 # Clone and build
-git clone https://github.com/yourname/kvz.git
+git clone https://github.com/jensanjo/kvz.git
 cd kvz
 cargo build --release
