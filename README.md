@@ -37,5 +37,5 @@ git clone https://github.com/jensanjo/kvz.git
 cd kvz
 cargo build --release
 ```
-## Usage
-See [Usage.md](Usage.md)
+## Usage examples
+See [USAGE.md](USAGE.md)
