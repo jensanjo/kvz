@@ -36,3 +36,6 @@ sudo apt install libzmq3-dev
 git clone https://github.com/jensanjo/kvz.git
 cd kvz
 cargo build --release
+```
+## Usage
+See [Usage.md](Usage.md)
